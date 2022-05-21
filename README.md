@@ -10,3 +10,4 @@ PREPARE FOR YOUR CODING INTERVIEWS ONE AT A TIME
 | Daily Byte | Correct Capitalization   | Google    |
 | Daily Byte | Longest Common Prefix    | Microsoft |
 | Daily Byte | Valid Palindrome Removal | Facebook  |
+| Daily Byte | Two Sum                  | Google    |
