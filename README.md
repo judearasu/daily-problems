@@ -13,3 +13,5 @@ PREPARE FOR YOUR CODING INTERVIEWS ONE AT A TIME
 | Daily Byte | Two Sum                  | Google    |
 | Daily Byte | Jewels and Stones        | Amazon    |
 | Daily Byte | First Unique Character   | Microsoft |
+| Daily Byte | Spot the difference      | Google    |
+| Daily Byte | Intersection of numbers  | Google    |
